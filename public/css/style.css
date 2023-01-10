@@ -3,9 +3,11 @@
 }
 
 
-.container{
-    margin-left: 100px;
-    margin-right: 100px;
+.kontainer{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }
 
 a{
